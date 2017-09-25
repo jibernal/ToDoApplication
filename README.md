@@ -2,7 +2,7 @@
 
 ToDo Application makes it possible to create tasks.
 
-The technologies used are Angular 4, Spring Boot with Maven, Hibernate and MySQL.
+The technologies used are Angular 4, Bootstrap, Spring Boot with Maven, Hibernate and MySQL.
 
 # Requirements
  * JAVA 8
